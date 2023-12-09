@@ -1,7 +1,7 @@
-### Hi there I'm James👋
+### Hi I'm James
 
-## I'm currently learning c plus plus :) 
+## I'm currently learning c++ :)
 
-* [You can view my C++ repository here!](..\cpp-practice)
+* [You can view my C++ repository here!](github.com/ArgeBarge/cpp-practice)
 
-* [You can view my work-in-progress portfolio here](..\portfolio)
+* [You can view my work-in-progress portfolio here](github.com/ArgeBarge/portfolio)
